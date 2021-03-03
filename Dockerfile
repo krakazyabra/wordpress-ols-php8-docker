@@ -1,4 +1,4 @@
-FROM harbor.wedos.org/docker.io/library/centos:8
+FROM centos:8
 
 ENV OLS_VERSION=1.6.20 \
   PHP_VERSION=lsphp80
